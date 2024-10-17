@@ -1,4 +1,4 @@
-# 8Bit-Full-Adder-on-ARTIX-7-FPGA
+# 8 Bit Signed Full Adder
 
 ## VERILOG CODE
 
